@@ -1,0 +1,36 @@
+$Id: README,v 1.1 2014-05-01 20:14:06-07 - - $
+
+Programmer: Alex Vincent
+E-mail:     avincent@ucsc.edu
+
+I worked on this program alone, please only grade
+the work in this directory.
+
+To run this program, simply type 'gmake'
+in the directory containing all the files.
+In the event mk.build doesn't work, please
+just try typing gmake.
+
+This program successfully fufills all required 
+specifications listed in the assignment. Here
+are a few things to note:
+
+-There is one very tricky bug I nor the lab TA 
+was able to solve. It happens when running certain
+text objects. For some reason, some text will be
+displayed with additional, repeated characters. The
+general consensus seems to be that I've encountered 
+a bug in OpenGL. The program still works fine with 
+all text, just some will give extra (unneeded) 
+characters. If concerned, please verify that the
+correctness in the source code.
+
+-This was tested both on the unix machines at
+JBE 105 and on my personal computer using the
+rather slow PuTTy-XMing connection. As a result,
+there should be no compilation or X11 errors. If
+you do run into any problems, please check to make
+sure they're not on your end.
+
+Thanks!
+

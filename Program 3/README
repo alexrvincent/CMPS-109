@@ -1,0 +1,16 @@
+$Id: README,v 1.1 2013-06-18 17:32:08-07 - - $
+
+Name: Alex Vincent
+E-mail: avincent@ucsc.edu
+ID: 1304100
+
+I WORKED ALONE ON THIS PROGRAM. GRADE THE CONTENTS OF THIS DIRECTORY
+
+To run the program, simply type 'gmake' in the directory with
+my source code. Thanks!
+
+This program was constructed with the started code provided
+by professor Mackey. Some basic algorithms (split, trim) were
+referenced from various stackoverflow websites.
+    
+This program successfully implements all required features.

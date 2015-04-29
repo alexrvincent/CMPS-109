@@ -1,0 +1,17 @@
+Programmer: Alex Vincent
+E-mail: avincent@ucsc.edu
+
+I have worked alone on this assignment. I have used
+the starter code provided from Prof. Mackey and only
+worked in the cix-client and cix-server modules. All
+implemented functions were done with the assistance of
+misc code directories and some online help from 
+stackoverflow. Simply run 'gmake' in this directory
+to compile the program 
+
+To the grader: I've had some strange issues running the
+program on localhost. Make sure you are logged into the same
+timeshare as is the daemon is running on, then localhost works.
+If for some reason running localhost doesn't work, please run
+the program with the timeshare's name that the daemon is running
+on. This is guaranteed to work. Thanks!

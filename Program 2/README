@@ -1,0 +1,34 @@
+$Id: README,v 1.2 2011-01-18 22:18:39-08 - - $
+
+Programmers:
+Alex Vincent - avincent@ucsc.edu
+Nader Sleem - nsleem@ucsc.edu
+
+This program was completed using pair programming.
+Partner: Alex Vincent (avincent@ucsc.edu)
+Partner: Nader Sleem (nsleem@ucsc.edu)
+
+The submitted program fulfils all the requirements listed in
+the SCORE file. The only deviation we took was on implementing
+some helper functions. It has been made very obvious in the
+code via comments where our deviations lie. So if you're looking
+for code in a function (such as divide_by_2) and you're not
+finding it, it's guaranteed going to tell you where it is. Everything
+else is completely in accordance with the assignment.
+
+We acknowledge that each partner in a programming pair should
+drive roughly 50% of the time the pair is working together, and
+at more 25% of an individual's effort for an assignment should
+be spent working alone. Any work done by a solitary programmer
+must be reviewed by the partner. The object is to work together,
+learning from each other, not to divide the work into 
+two pieces with each partner working on a different piece
+
+Alex Vincent spent 10 hours working alone
+Nader Sleem spent 10 hours working alone
+We spent 20 hours working together
+Alex Vincent spent 10 hours driving
+Nader Sleem spent 10 hours driving.
+
+Please grade the work submitted by avincent@ucsc.edu and NOT
+the work submitted by nsleem@ucsc.edu

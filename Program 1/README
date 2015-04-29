@@ -1,0 +1,38 @@
+$Id: README,v 1.1 2013-06-18 17:32:08-07 - - $
+
+Name: Alex Vincent
+E-mail: avincent@ucsc.edu
+ID: 1304100
+
+To Grader:
+
+To run the program, simply type 'gmake' in the directory with
+my source code. Thanks!
+
+Here's some important things to note:
+    -My readfile/writefile functions are simple, but this
+    is intentional. It's the best way I understood the program
+    and it works great. This was approved by a TA in lab. So, this
+    should not result in -3 points.
+    -I implemented mkdir/mkfile in other functions as well. This 
+    was due to incompatible pointer types that crashed my program.
+    I created new functions that modulized this task (with correct
+    types) and they work great. Again, this was approved by a TA and
+    I'm led to believe this will not result in minus points.
+
+This program successfully implements all required features, including:
+-a complain-free checksource (though ignore compiler warnings)
+-meaningful indents and nice code style
+-throw reports in every function (implemented only in commands.cpp)
+-proper cd, echo, exit, prompt, pwd implementations
+-proper cat, make, mkdir implementations
+-proper ls, lsr implementations
+-proper rm, rmr implementations
+-approved readfile/makefile functions
+-approved mkdir and mkfile functions
+-proper additions to inode_state
+
+-a working gmake
+-successful test0,1,2,3,4
+-correct exit statuses for all tests
+-no seg faults or any strange error outs
